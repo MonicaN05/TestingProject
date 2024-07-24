@@ -1,1 +1,2 @@
 Scenario 1: Train ticket booking
+Scenario 2: Login Application - New Branch
